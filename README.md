@@ -1,7 +1,7 @@
-# 🎮 Heitor Angelo
+# 🌌 Heitor Angelo
 
 Olá! Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
-Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
+Apaixonado por **programação, automação, mecatrônica, inovação e IA**.  
 
 🌱 Atualmente estudando: **Java, Python, Electron**  
 💡 Apaixonado por: automação e agilidade  
@@ -9,39 +9,39 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 🛠 Habilidades (Estilo Steam)
+## 🛠 Habilidades
 
 **Python**  
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=flat-square&logo=python&logoColor=white)
 
 **Java**  
-![Java](https://img.shields.io/badge/Java-80%25-purple?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-80%25-purple?style=flat-square&logo=java&logoColor=white)
 
 **Electron**  
-![Electron](https://img.shields.io/badge/Electron-70%25-blueviolet?style=for-the-badge&logo=electron&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-70%25-blueviolet?style=flat-square&logo=electron&logoColor=white)
 
-**HTML5 / CSS3 / JS**  
-![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+**Web (HTML5, CSS3, JS)**  
+![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAngelo&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAngelo&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeitorAngelo&theme=dark)
+![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAngelo&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAngelo&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeitorAngelo&theme=dark&hide_border=true)
 
 ---
 
-## 🚀 Projetos em Destaque (Cards estilo Steam)
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
-| ![Task Manager](https://img.shields.io/badge/TaskManager-Pro-blueviolet) | Gerenciador de tarefas com IA local |
-| ![Automação Excel](https://img.shields.io/badge/Excel-Automation-purple) | Scripts para automatizar planilhas |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-Pessoal-darkviolet) | Meu site de apresentação profissional |
+| [Task Manager Pro](https://github.com/HeitorAngelo/task-manager-pro) | Gerenciador de tarefas com IA local |
+| [Automação Excel](https://github.com/HeitorAngelo/excel-automation) | Automatização de planilhas e tarefas administrativas |
+| [Portfolio Pessoal](https://github.com/HeitorAngelo/portfolio) | Meu site de apresentação profissional |
 
 ---
 
@@ -53,15 +53,8 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 📫 Contato
+## 🌌 Noturno & Inspiracional
 
-- LinkedIn: [Heitor Angelo](https://www.linkedin.com/in/heitorangelo)  
-- E-mail: heitor@example.com  
+![Noturno](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)  
 
----
-
-## 💜 Curiosidade / GIF animado
-
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-> "Automação é o caminho para mais tempo para criar e inovar."  
+> "Automação e código são como estrelas: iluminam o caminho para a inovação."  
