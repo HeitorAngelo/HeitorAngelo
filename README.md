@@ -3,7 +3,7 @@
 
 # 🌌 Sobre mim
 
-Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
+Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na Universidade Federal do ABC**.  
 Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 🌱 Atualmente estudando: **Java, Python, Electron**  
@@ -41,7 +41,4 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 ---
 
 ## 🌌 Noturno & Inspiracional
-
-![Noturno](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
-
 > "Automação e código são como estrelas: iluminam o caminho para a inovação."
