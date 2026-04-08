@@ -34,7 +34,7 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 | Projeto | Descrição |
 |---------|-----------|
-| [Task Manager Pro](https://github.com/HeitorAngelo/task-manager-pro) | Gerenciador de tarefas com IA local |
+| [Calculadora - Electron](https://github.com/HeitorAngelo/calculadora-electron) | Calculadora JS |
 | [Automação Excel](https://github.com/HeitorAngelo/excel-automation) | Automatização de planilhas e tarefas administrativas |
 | [Portfolio Pessoal](https://github.com/HeitorAngelo/portfolio) | Meu site de apresentação profissional |
 
