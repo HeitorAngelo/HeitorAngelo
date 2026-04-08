@@ -30,15 +30,7 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAngelo&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAngelo&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeitorAngelo&theme=dark&hide_border=true)
-
----
-
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque: Em breve...
 
 | Projeto | Descrição |
 |---------|-----------|
