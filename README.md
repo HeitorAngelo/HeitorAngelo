@@ -1,7 +1,10 @@
-# 🌌 Heitor Angelo
+<!-- Cabeçalho animado -->
+![Heitor Angelo - Tech Motivacional](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Heitor+Angelo;Code+is+the+future;Automate+to+innovate;Build+your+dreams)
 
-Olá! Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
-Apaixonado por **programação, automação, mecatrônica, inovação e IA**.  
+# 🌌 Sobre mim
+
+Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
+Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 🌱 Atualmente estudando: **Java, Python, Electron**  
 💡 Apaixonado por: automação e agilidade  
@@ -45,16 +48,8 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 🎯 Objetivos de Aprendizado
-
-- Aprender **Inteligência Artificial e Machine Learning**  
-- Explorar **Robótica e Automação Industrial**  
-- Aperfeiçoar projetos com **Electron e Python**  
-
----
-
 ## 🌌 Noturno & Inspiracional
 
-![Noturno](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)  
+![Noturno](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
 
-> "Automação e código são como estrelas: iluminam o caminho para a inovação."  
+> "Automação e código são como estrelas: iluminam o caminho para a inovação."
