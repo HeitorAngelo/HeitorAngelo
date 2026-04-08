@@ -1,6 +1,6 @@
-# Olá, eu sou Heitor 👋
+# 🎮 Heitor Angelo
 
-Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
+Olá! Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na UFABC**.  
 Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 🌱 Atualmente estudando: **Java, Python, Electron**  
@@ -9,38 +9,45 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 🔧 Habilidades e Tecnologias
+## 🛠 Habilidades (Estilo Steam)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Python**  
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
+
+**Java**  
+![Java](https://img.shields.io/badge/Java-80%25-purple?style=for-the-badge&logo=java&logoColor=white)  
+
+**Electron**  
+![Electron](https://img.shields.io/badge/Electron-70%25-blueviolet?style=for-the-badge&logo=electron&logoColor=white)  
+
+**HTML5 / CSS3 / JS**  
+![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
-![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAngelo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAngelo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeitorAngelo&theme=radical)
+![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorAngelo&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorAngelo&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeitorAngelo&theme=dark)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (Cards estilo Steam)
 
 | Projeto | Descrição |
 |---------|-----------|
-| [Task Manager Pro](https://github.com/HeitorAngelo/task-manager-pro) | Gerenciador de tarefas com IA local |
-| [Automação Excel](https://github.com/HeitorAngelo/excel-automation) | Scripts para automatizar planilhas |
-| [Portfolio Pessoal](https://github.com/HeitorAngelo/portfolio) | Meu site de apresentação profissional |
+| ![Task Manager](https://img.shields.io/badge/TaskManager-Pro-blueviolet) | Gerenciador de tarefas com IA local |
+| ![Automação Excel](https://img.shields.io/badge/Excel-Automation-purple) | Scripts para automatizar planilhas |
+| ![Portfolio](https://img.shields.io/badge/Portfolio-Pessoal-darkviolet) | Meu site de apresentação profissional |
 
 ---
 
 ## 🎯 Objetivos de Aprendizado
 
-- Aprender **Inteligência Artificial** e Machine Learning  
+- Aprender **Inteligência Artificial e Machine Learning**  
 - Explorar **Robótica e Automação Industrial**  
 - Aperfeiçoar projetos com **Electron e Python**  
 
@@ -53,8 +60,8 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
 ---
 
-## 💜 Curiosidade
+## 💜 Curiosidade / GIF animado
 
 ![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-"Automação é o caminho para mais tempo para criar e inovar."  
+> "Automação é o caminho para mais tempo para criar e inovar."  
