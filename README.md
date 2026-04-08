@@ -1,5 +1,5 @@
 <!-- Cabeçalho animado -->
-![Heitor Angelo - Tech Motivacional](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Heitor+Angelo;Code+is+the+future;Automate+to+innovate;Build+your+dreams)
+![Heitor Angelo - Tech Motivacional](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Heitor+Angelo;Automate+to+innovate)
 
 # 🌌 Sobre mim
 
