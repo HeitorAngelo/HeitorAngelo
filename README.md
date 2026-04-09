@@ -35,7 +35,7 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 | Projeto | Descrição |
 |---------|-----------|
 | [Calculadora - Electron](https://github.com/HeitorAngelo/calculadora-electron) | Calculadora JS |
-| [Automação Excel](https://github.com/HeitorAngelo/excel-automation) | Automatização de planilhas e tarefas administrativas |
+| [Task Manager](https://github.com/HeitorAngelo/excel-automation) | Organizador de tarefas |
 | [Portfolio Pessoal](https://github.com/HeitorAngelo/portfolio) | Meu site de apresentação profissional |
 
 ---
