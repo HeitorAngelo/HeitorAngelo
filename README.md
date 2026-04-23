@@ -15,10 +15,10 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 ## 🛠 Habilidades
 
 **Python**  
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-70%25-brightgreen?style=flat-square&logo=python&logoColor=white)
 
 **Java**  
-![Java](https://img.shields.io/badge/Java-80%25-purple?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-60%25-purple?style=flat-square&logo=java&logoColor=white)
 
 **Electron**  
 ![Electron](https://img.shields.io/badge/Electron-70%25-blueviolet?style=flat-square&logo=electron&logoColor=white)
@@ -26,7 +26,7 @@ Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 **Web (HTML5, CSS3, JS)**  
 ![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-55%25-yellow?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
