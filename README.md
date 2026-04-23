@@ -6,7 +6,7 @@
 Sou **Técnico em Informática para Internet** e estudante de **Ciência e Tecnologia na Universidade Federal do ABC**.  
 Apaixonado por **programação, automação, mecatrônica, inovação e IA**.
 
-🌱 Atualmente estudando: **Java, Python, Electron**  
+🌱 Atualmente estudando: **Python e C++ dentro do Arduino**  
 💡 Apaixonado por: automação e agilidade  
 🚀 Objetivo: Eng. Instrumentação, Automação e Robótica (IAR) na UFABC  
 
